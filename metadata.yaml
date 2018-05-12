@@ -1,4 +1,8 @@
 _repo: Brahms-and-some-of-his-works_49127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49127-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanborn, Pitts
@@ -9,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Pitts_Sanborn
 description: '"Written for and dedicated to the Radio Members of the Philharmonic-Symphony
   Society of New York"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49127#Brahms-and-some-of-his-works
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
